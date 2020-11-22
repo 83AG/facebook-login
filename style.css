@@ -1,0 +1,65 @@
+.main-body{
+    background-color: #f0f2f5;
+    width: 100%;
+    height: 45em;
+}
+.image{
+    height: 106px;
+    text-align: center;
+    */margin-left: 9em;*/
+    */margin-top: 10em;*/
+}
+.para{
+    font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+    font-size: 28px;
+    font-weight: normal;
+    line-height: 32px;
+    margin-left: 1em;
+    
+}
+.form{
+    height: 350px;
+    width: 396px;
+    background: white;
+    border-radius: 10px;
+    border: black, solid, 10px;  
+}
+.right-section{
+    float: left;
+    padding-left: 6em;
+    padding-top: 8em;
+}
+.left-section{
+    float: left;
+    padding-left: 10em;
+    padding-top: 10em;
+
+}
+.form-group{
+    padding-top: 1em;
+    width: 23.7em;
+    padding-left: 1em;
+}
+.form-pass{
+    width: 23.7em;
+    padding-left: 1em;
+}
+.login-button{
+    padding-left: 1em;
+    padding-top: 1em;
+}
+.forgotten{
+    color: #1877f2;
+    font-family: inherit;
+    padding-left: 7.8em;
+    padding-top: 1em;
+}
+.line{
+    margin: 20px;
+}
+.account{
+  padding-left: 6em;
+  
+}
+
+
